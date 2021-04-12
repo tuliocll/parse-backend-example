@@ -1,0 +1,5 @@
+{
+  "appId": "parseTest",
+  "masterKey": "pass",
+  "databaseURI": "postgres://postgres:root@localhost/parse"
+}
