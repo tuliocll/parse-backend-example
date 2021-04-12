@@ -15,8 +15,6 @@
 
 Projeto de exemplo utilizado para escrever o post: [ainda escrevendo rsrs]()
 
-[Here](https://www.figma.com/file/ywNwI4gYMH3cXiUIZ9ZiuS/summaryze-dev?node-id=0%3A1) you can see the figma prototype.
-
 ## Como usar ❓
 
 Clone o projeto
